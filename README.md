@@ -1,4 +1,5 @@
 <img src="https://simplestack-myfirstwebsitebucketfa928a18-1vxhtpup2g8sd.s3.amazonaws.com/profile-welcome.gif" width="100%"/>
+
 # 💫 About Me:
 🔭 I’m currently a Software Engineer at an AdTech startup located in NYC.<br>🌱 Passionate about web development and cloud infrastructure. Machine Learning enthusiast!<br>💬 Ask me about the perfect pasta Carbonara recipe - I got you!<br>⚡ Fun fact: I have played the drums for over 5 years!
 
